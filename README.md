@@ -26,4 +26,4 @@ To run this project locally, you will need the following installed:
 - **Maven** (for building and running the Spring Boot app)
 
 ## FrontEnd Live Link : https://naveenkumar-1234.github.io/morse-code/
-## FrontEnd Source code : https://naveenkumar-1234.github.io/morse-code/
+## FrontEnd Source code : https://github.com/naveenkumar-1234/morse-code.git
