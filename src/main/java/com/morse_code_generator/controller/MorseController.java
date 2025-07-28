@@ -16,7 +16,7 @@ public class MorseController {
 
     @GetMapping("/test")
     public String test(){
-        return "WORKINGs";
+        return "WORKING";
     }
 
 
